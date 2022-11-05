@@ -1,0 +1,6 @@
+{
+	"imports": {
+		"std/": "https://deno.land/std@0.162.0/",
+		"chdir-anywhere": "https://deno.land/x/chdir_anywhere@v0.0.2/mod.js"
+	}
+}

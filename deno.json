@@ -1,0 +1,13 @@
+{
+	"importMap": "importmap.json",
+	"fmt": {
+		"files": {
+			"exclude": [".denoTypes"]
+		},
+		"options": {
+			"indentWidth": 4,
+			"lineWidth": 240,
+			"useTabs": true
+		}
+	}
+}
