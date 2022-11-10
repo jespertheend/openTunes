@@ -10,6 +10,7 @@ await generateTypes({
 	importMap: "importmap.json",
 	include: [
 		"scripts",
+		"server",
 		"main.js",
 	],
 });

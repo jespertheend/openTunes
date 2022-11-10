@@ -12,7 +12,7 @@
 	},
 	"include": [
 		"client/**/*.js",
-		"server/**/*.ts",
+		"server/**/*.js",
 		"scripts/**/*.js",
 		"test/**/*.js"
 	],

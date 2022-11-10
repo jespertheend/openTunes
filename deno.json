@@ -1,4 +1,8 @@
 {
+	"tasks": {
+		"watch": "deno run --allow-env --allow-read --allow-write --allow-net --watch main.js",
+		"inspect": "deno run --allow-env --allow-read --allow-write --allow-net --inspect main.js"
+	},
 	"importMap": "importmap.json",
 	"fmt": {
 		"files": {
